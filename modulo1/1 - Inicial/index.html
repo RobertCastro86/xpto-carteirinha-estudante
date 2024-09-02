@@ -10,6 +10,7 @@
 </head>
 
 <body>
+  <div id="app" v-cloak>
     <div id="wrapper">
         <h1>XPTO - Carteirinha do Estudante</h1>
 
@@ -30,10 +31,10 @@
                     <div id="dados-cartao">
 
                         <span class="label-cartao">Nome:</span>
-                        <span class="dado-cartao">{{  nome }}</span>
+                        <span class="dado-cartao"  v-test="nome"></span>
 
                         <span class="label-cartao">Matrícula:</span>
-                        <span class="dado-cartao" v-text="matricula">{{ matricula }}</span>
+                        <span class="dado-cartao" v-text="matricula" v-text="matricula"></span>
                     </div>
                     <div id="foto">Foto</div>
                 </div>
