@@ -3,11 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/RobertCastro86">
-    <img height="180em" src="https://github.com/RobertCastro86/xpto-carteirinha-estudante/blob/main/frent-xpto.png"/>
+    <img height="200em" src="https://github.com/RobertCastro86/xpto-carteirinha-estudante/blob/main/frent-xpto.png"/>
 </div>
 
-<img height="180em" src="https://github.com/RobertCastro86/xpto-carteirinha-estudante/blob/main/frent-xpto.png
-"/>
 
 O que foi solicitado
 
