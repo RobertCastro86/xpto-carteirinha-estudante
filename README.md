@@ -1,5 +1,5 @@
 # Projeto – Carteirinha de Estudante
-<img height="180em" src="https://github.com/user-attachments/assets/891615d8-6e5c-4359-a075-6e32667ae599
+<img height="180em" src="https://github.com/RobertCastro86/xpto-carteirinha-estudante/blob/main/frent-xpto.png
 "/>
 
 O que foi solicitado
